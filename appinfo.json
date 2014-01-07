@@ -1,0 +1,15 @@
+{
+  "uuid": "82be1ec9-05b1-4f86-8049-ba2dabdbe586",
+  "shortName": "Magic Eightball",
+  "longName": "Magic Eightball",
+  "companyName": "Miles O'Keefe",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": []
+  }
+}
