@@ -1,8 +1,8 @@
 Magic Eightball for Pebble
 ==========================
 
-A quickly bolted together watchapp for [Pebble][pebble], which
-gives a [Magic Eightball][m8] reading every time it is started.
+A watchapp for [Pebble][pebble], which
+gives a [Magic Eightball][m8] reading every time the watch is shaken.
 
 Reference
 ---------
