@@ -1,6 +1,6 @@
 {
   "uuid": "82be1ec9-05b1-4f86-8049-ba2dabdbe586",
-  "shortName": "Magic Eightball",
+  "shortName": "Magic 8-Ball",
   "longName": "Magic Eightball",
   "companyName": "Miles O'Keefe",
   "versionCode": 1,
@@ -10,6 +10,13 @@
   },
   "appKeys": {},
   "resources": {
-    "media": []
+    "media": [
+        {
+          "type": "png",
+          "name": "icon",
+          "file": "icon.png",
+          "menuIcon" : "true"
+        }
+      ]
   }
 }
